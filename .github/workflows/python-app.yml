@@ -33,6 +33,6 @@ jobs:
         pip install -r requirements.txt
 
     # Step 4: runs test
-    - name: Test with pytest
+    - name:  run tests
       run: |
         pytest
