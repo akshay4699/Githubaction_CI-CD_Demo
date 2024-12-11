@@ -1,1 +1,1 @@
-## This is basic paython app
+## This is basic python app

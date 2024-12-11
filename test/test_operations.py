@@ -7,7 +7,7 @@ def test_add():
 
 def test_sub():
     assert sub_nums(4,5)==-1
-    assert sub_nums(-4,5)==1
+    assert sub_nums(-4,5)==-9
     assert sub_nums(0,5)==-5
 
 def test_mul():
